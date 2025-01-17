@@ -189,3 +189,15 @@ nav {
     font-family: var(--font-mono);
     text-decoration: none;
 }
+
+.dgithub {
+    /* border: red 1px solid; */
+    width: 1.2dvw;
+    height: 1.2dvw;
+    display: flex;
+}
+
+.github {
+    width: 1.2dvw;
+    height: 1.2dvw;
+}
